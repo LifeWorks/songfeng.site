@@ -22,28 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Scientist
+    company: Pacific Northwest National Laboratory
+    company_url: 'https://www.pnnl.gov'
+#   company_logo: org-gc
+    location: Richland, WA
+    date_start: '2019-09-03'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+#    description: |2-
+#        Responsibilities include:
+#        
+#        * Analysing
+#        * Modelling
+#        * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Postdoctoral research fellow
+    company: Center for Nonlinear Studies, Los Alamos National Laboratory
+    company_url: 'https://cnls.lanl.gov/External/'
+#   company_logo: org-x
+    location: Los Alamos, NM
+    date_start: '2016-08-01'
+    date_end: '2019-05-31'
+#   description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Research intern
+    company: CAS-MPG Partner Institute for Computational Biology
+    company_url: 'https://www.picb.ac.cn/'
+#   company_logo: org-x
+    location: Shanghai, China
+    date_start: '2008-07-01'
+    date_end: '2009-07-31'
+#   description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
